@@ -10,8 +10,8 @@ in_ra('hello')
 def greeting(name, age):
     print(f'hi, my name is {name}, iam {age} years old')
 
-def add(a, b):
-    print(a+b)
+# def add(a, b):
+#     print(a+b)
 
 greeting('Duc', 100)
 greeting('hitler', 999)

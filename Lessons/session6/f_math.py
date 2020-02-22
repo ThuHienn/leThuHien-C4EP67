@@ -30,8 +30,3 @@ print(a)
 #     if ans == 'stop':
 #             break
 
-
-
-
-
-
