@@ -35,4 +35,3 @@ if __name__ == '__main__':
 # def multi(a,b):
 # => DÀIIIIII
 
-print('')
