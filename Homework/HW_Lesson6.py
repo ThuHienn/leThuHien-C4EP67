@@ -85,7 +85,7 @@
 # else:
 #     print("Ooops, bugs detected")
 
-# #11
+#11
 # def is_inside(x_point,y_point,x_rec,y_rec,width,height):
 #     if x_point > x_rec and x_point < (x_rec + width):
 #         if y_point > y_rec and y_point < (y_rec + height):
@@ -95,6 +95,12 @@
 #     else:
 #         return False
 
-#  a = is_inside(100,120,140,60,100,200)
+# a = is_inside(100,120,140,60,100,200)
+# b = is_inside(200,120,140,60,100,200)
 # print(a)
 
+# # #12
+# if a == False:
+#     print('Your function is correct')
+# else:
+#     print("Oops, bugs detected")       

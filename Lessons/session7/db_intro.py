@@ -1,4 +1,5 @@
 #Cilent/Database/Collections/Records
+#trước tiên phải vào cmd type mongod ~ chạy mongodb.exe
 import pymongo
 from bson import ObjectId
 
